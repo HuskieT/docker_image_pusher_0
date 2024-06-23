@@ -1,3 +1,2 @@
-nginx
 maven:3.6-alpine
 openjdk:8-jdk-alpine
