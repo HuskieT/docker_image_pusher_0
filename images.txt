@@ -1,16 +1,8 @@
 
-elestio/pgadmin:REL-8_9
-elestio/pgadmin:latest
-
-bitnami/gitlab-runner:latest
-bitnami/gitlab-runner:17.1.0
-bitnami/gitlab-runner:16.11.1
-bitnami/gitlab-runner:15.11.1
-
-docker pull mysql:5.7.44
-docker pull mysql:5.7.44-oracle
-docker pull mysql:5.7.37
-docker pull mysql:5.7.37-oracle
+mysql:5.7.44
+mysql:5.7.44-oracle
+mysql:5.7.37
+mysql:5.7.37-oracle
 
 mongo-express:latest
 apacherocketmq/rocketmq-dashboard:latest
