@@ -1,21 +1,28 @@
 
 
-maven:3.8.8
-maven:latest
-maven:latest
+zookeeper:3.7.2
+zookeeper:3.7.2-jre-11
+zookeeper:3.7.2-jre-17
+zookeeper:3.5.10
+zookeeper:3.5
 
-tomcat:9.0.91-jre8
-tomcat:9.0.91
-tomcat:10.1.26
-tomcat:10.1.26-jre11
-tomcat:latest
+grafana/grafana:9.5.20
+grafana/grafana:9.5.20-ubuntu
+grafana/grafana:latest
 
-hello-world:latest
 
-kong:2.8.5
-kong:2.8.5-alpine
-kong:3.6.1-ubuntu
-kong:3.6.1
+docker:latest
+docker:20.10.22-cli
+docker:22.06-rc-cli
+docker:22.06-rc
+docker:24.0.9-cli
+docker:24.0.9
+docker:26.1.4-cli
+docker:26.1.4
 
-rabbitmq:3.12.14
-rabbitmq:3.12.14-alpine
+mongo-express:1.0.2
+
+bitnami/kafka:3.3.2
+
+mongo:7-nanoserver
+mongo:6.0.16-nanoserver
