@@ -1,16 +1,14 @@
-elasticsearch:latest
+
 elasticsearch:8.14.3
 elasticsearch:7.17.22
 elasticsearch:6.8.12
 elasticsearch:6.8.23
 
-logstash:latest
 logstash:8.14.3
 logstash:7.17.22
 logstash:6.8.12
 logstash:6.8.23
 
-kibana:latest
 kibana:8.14.3
 kibana:7.17.22
 kibana:6.8.12
