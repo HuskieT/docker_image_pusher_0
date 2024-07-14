@@ -1,9 +1,8 @@
 
-fluentd:v1.16-1
-fluentd:latest
 
 openjdk:17-jdk-alpine
-openjdk:11-jdk-alpine
+openjdk:11
+openjdk:11-jre-slim-buster
 
 maven:3.8.3-alpine
 maven:3.8.3
