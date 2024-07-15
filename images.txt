@@ -1,2 +1,2 @@
 
-chinayin/xxl-job-executor-springboot:2.4
+xuxueli/xxl-job-admin:2.4.1
