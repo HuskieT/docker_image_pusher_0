@@ -1,14 +1,2 @@
 
-mysql:5.7.44
-mysql:5.7.44-oracle
-mysql:5.7.37
-mysql:5.7.37-oracle
-
-mongo-express:latest
-apacherocketmq/rocketmq-dashboard:latest
-apacherocketmq/rocketmq-dashboard:1.0.0
-
-mongo:6.0.16
-mongo:7.0.12
-mongo:5.0.27
-mongo:4.4.29
+chinayin/xxl-job-executor-springboot:2.4
