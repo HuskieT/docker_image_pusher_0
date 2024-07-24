@@ -1,12 +1,2 @@
-
-apache/skywalking-oap-server:latest
-apache/skywalking-oap-server:10.0.1
-apache/skywalking-oap-server:8.9.1
-
-apache/skywalking-ui:latest
-apache/skywalking-ui:10.0.1
-apache/skywalking-ui:8.9.1
-
-apache/skywalking-java-agent:9.2.0-java8
-apache/skywalking-java-agent:9.2.0-java11
-apache/skywalking-java-agent:9.2.0-java17
+node:16.18.1-slim
+node:16.20.2-slim
