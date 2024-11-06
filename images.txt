@@ -1,2 +1,1 @@
-node:16.18.1-slim
-node:16.20.2-slim
+uozi/nginx-ui:latest
