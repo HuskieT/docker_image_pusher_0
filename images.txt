@@ -1,1 +1,3 @@
 azul/zulu-openjdk:8u382
+azul/zulu-openjdk:8u392
+azul/zulu-openjdk:8u422
