@@ -1,5 +1,1 @@
-openjdk:8u342-slim
-openjdk:8u342
-openjdk:8u342-jre-slim
-openjdk:8u342-jre
-zulu-openjdk:8u382
+azul/zulu-openjdk:8u382
