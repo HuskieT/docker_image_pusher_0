@@ -1,2 +1,2 @@
-8u342-jdk
-8u342-jdk-slim
+openjdk:8u342-jdk-slim
+openjdk:8u342-jdk
