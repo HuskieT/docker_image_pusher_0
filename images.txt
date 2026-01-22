@@ -1,1 +1,1 @@
-python-nodejs:python2.7-nodejs13
+nginx:1.22.1
