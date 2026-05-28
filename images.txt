@@ -1,1 +1,1 @@
-node:14.21.3
+eclipse-temurin:8-jdk-alpine3.19
